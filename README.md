@@ -25,4 +25,4 @@
 <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504911.svg" alt="TypeScript" width="40" height="40" style="max-width:100%;"></img>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcspaiva87)](https://github.com/lcspaiva87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcspaiva87&layout=compact)](https://github.com/lcspaiva87/github-readme-stats)
