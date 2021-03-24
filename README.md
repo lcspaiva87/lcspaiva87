@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'am Lucas Antonio
 - I live in :brazil:, northeast :sunglasses::sunrise:
-- I have been working on Certus Software as backend developer :computer:
+- I am in search of an opportunity :computer:
 - I have been learning more about React Js :sparkling_heart:
 <!--
 **lcspaiva87/lcspaiva87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
