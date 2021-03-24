@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.instagram.com/lcspaiva87/" target="_blank">
-<img align="center" alt="Lucas-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.js" style="max-width:100%;">
+<img align="center" alt="Lucas-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 
 
