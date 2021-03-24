@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'am Lucas Antonio
-Unordered sub-lis I Live in Brazil
+- I live in :brazil:, northeast :sunglasses::sunrise:
+- I have been working on Certus Software as backend developer :computer:
+- I have been learnig more about Ruby on Rails :sparkling_heart:
 <!--
 **lcspaiva87/lcspaiva87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
