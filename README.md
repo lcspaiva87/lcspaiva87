@@ -26,5 +26,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcspaiva87&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcspaiva87&layout=compact)](https://github.com/lcspaiva87/github-readme-stats)
-[willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcspaiva87)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcspaiva87)](https://github.com/anuraghazra/github-readme-stats)
 
