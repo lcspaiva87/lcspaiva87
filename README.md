@@ -4,7 +4,7 @@
 - I am in search of an opportunity :computer:
 - I have been learning more about React Js :sparkling_heart:
 - ## Connect with me:
-<a href="https://www.linkedin.com/in/lucas-antonio-paiva/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-antonio-paiva/" >
 <img align="center" alt="Lucas-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.js" style="max-width:100%; color:#fff;">
 </a>
 
