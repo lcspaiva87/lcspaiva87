@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="TypeScript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504911.svg" alt="TypeScript" width="40" height="40" style="max-width:100%;"></img>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcspaiva87&show_icons=true&bg_color=DEG)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcspaiva87&show_icons=true&bg_color=COLOR1&bg_color=COLOR10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcspaiva87&layout=compact)](https://github.com/lcspaiva87/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcspaiva87)](https://github.com/anuraghazra/github-readme-stats)
 
