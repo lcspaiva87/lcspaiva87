@@ -8,7 +8,7 @@
 <img align="center" alt="Lucas-linkedin" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384874.svg?token=exp=1619383068~hmac=05ed154f85cc18be4c407813a97b7ae6" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/lcspaiva87/" target="_blank">
-<img align="center" alt="Lucas-instagram" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1616626488~hmac=0c148f7289753ee6f129ddd09a09024e" style="max-width:100%;">
+<img align="center" alt="Lucas-instagram" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619383116~hmac=47bf41591e2ef2cc70ad501a967441f6" style="max-width:100%;">
 </a>
 
 ## My Skills
