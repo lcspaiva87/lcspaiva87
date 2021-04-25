@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.flaticon.com/svg/vstatic/svg/174/174881.svg?token=exp=1619383174~hmac=b5c1d34002eb67b184829f9b3df7ba58" alt="Wpp" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="Wpp" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://www.flaticon.com/svg/vstatic/svg/3334/3334886.svg?token=exp=1616627373~hmac=64228cc15c13f33af9ba528b6a6584eb" alt="ReactJs" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://www.flaticon.com/svg/vstatic/svg/3334/3334886.svg?token=exp=1619383265~hmac=93aa372d4dca420f353737cfa6d5b906" alt="ReactJs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919832.svg?token=exp=1616627418~hmac=8082bc5f1c91819425dc60585ed87cea" alt="TypeScript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="TypeScript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504911.svg" alt="TypeScript" width="40" height="40" style="max-width:100%;"></img>
