@@ -6,7 +6,7 @@ software developer
 
 Olá sou o Lucas, atuo como Front-end há 1 anos, tenho experiência com trabalho em equipe, metodologias ágeis e gestão de tempo. Procurando sempre utilizar as tecnologias mais recentes do mercado, focado em programação funcional e buscando sempre trazer soluções.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-lcspaiva87.vercel.app)
+
 * ✉️  You can contact me at [lcspaiva87@gmail.com](mailto:lcspaiva87@gmail.com)
 * 🧠  I'm learning NextJS
 
