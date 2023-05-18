@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Paiva
 software developer
 ------------------
 
-Olá sou o Lucas, atuo como Front-end há 2 anos, tenho experiência com trabalho em equipe, metodologias ágeis e gestão de tempo. Procurando sempre utilizar as tecnologias mais recentes do mercado, focado em programação funcional e buscando sempre trazer soluções.
+Olá, sou o Lucas, e há 2 anos atuo como desenvolvedor Front-end. Durante esse período, adquiri valiosa experiência em trabalho em equipe, implementando metodologias ágeis e habilidades de gestão de tempo. Tenho um forte compromisso em utilizar as tecnologias mais recentes do mercado, buscando sempre aprender e me atualizar constantemente.
 
 
 * ✉️  You can contact me at [lcspaiva87@gmail.com](mailto:lcspaiva87@gmail.com)
