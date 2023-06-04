@@ -1,10 +1,11 @@
 Hi 👋 My name is Lucas Paiva
 ============================
 
-software developer
+Software Engineer
 ------------------
 
-Olá, sou o Lucas, e há 2 anos atuo como desenvolvedor Front-end. Durante esse período, adquiri valiosa experiência em trabalho em equipe, implementando metodologias ágeis e habilidades de gestão de tempo. Tenho um forte compromisso em utilizar as tecnologias mais recentes do mercado, buscando sempre aprender e me atualizar constantemente.
+I am currently an experienced Front-end developer with extensive experience in the field of systems development. My main skills are focused on ReactJS and Next.js, where I have applied my knowledge to create innovative and efficient solutions. Over time, I have strived to constantly improve my skills, keeping up to date with industry trends and best practices. This approach allows me to offer creative and effective solutions, always meeting the specific demands and requirements of the projects in which I am involved. I am committed to delivering high quality results, using my technical knowledge and my ability to solve problems quickly and effectively.
+
 
 
 * ✉️  You can contact me at [lcspaiva87@gmail.com](mailto:lcspaiva87@gmail.com)
