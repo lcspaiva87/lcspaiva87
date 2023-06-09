@@ -35,4 +35,9 @@ I am currently an experienced Front-end developer with extensive experience in t
 <b>My GitHub Stats</b>
  ![Snake animation](https://github.com/lcspaiva87/lcspaiva87/blob/output/github-contribution-grid-snake.svg)
 
-
+<div align="center">
+  <a href="https://github.com/lcspaiva87">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lcspaiva87&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcspaiva87&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
