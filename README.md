@@ -33,6 +33,6 @@ I am currently an experienced Front-end developer with extensive experience in t
 ### Badges
 
 <b>My GitHub Stats</b>
-
+ ![Snake animation](https://github.com/lcspaiva87/lcspaiva87/blob/output/github-contribution-grid-snake.svg)
 <a href="http://www.github.com/lcspaiva87"><img src="https://activity-graph.herokuapp.com/graph?username=lcspaiva87&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 [![readme](https://github-readme-stats.vercel.app/api/pin/?usernamelcspaiva87&repo=lcspaiva87&theme=react)](https://github.com/lcspaiva87/lcspaiva87)
