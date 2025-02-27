@@ -8,7 +8,7 @@ I am currently an experienced Front-end developer with extensive experience in t
 
 
 
-* ✉️  You can contact me at [lcspaiva87@gmail.com](mailto:lcspaiva87@gmail.com)
+
 * 🧠  I'm learning NextJS
 
 ### Skills
