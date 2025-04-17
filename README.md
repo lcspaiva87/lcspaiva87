@@ -31,6 +31,12 @@ I am currently an experienced Front-end developer with extensive experience in t
 
 <p align="left"> <a href="https://www.github.com/lcspaiva87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-antonio-paiva/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### 👾 Pacman Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcspaiva87/lcspaiva87/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/lcspaiva87/lcspaiva87/output/pacman-contribution-graph.svg" alt="Pac‑Man animation" />
+</picture>
+
 
 <b>My GitHub Stats</b>
 <div align="center">
