@@ -37,7 +37,12 @@ I am currently an experienced Front-end developer with extensive experience in t
   <img src="https://raw.githubusercontent.com/lcspaiva87/lcspaiva87/output/pacman-contribution-graph.svg" alt="Pac‑Man animation" />
 </picture>
 
+### 🐍 Snake Animation
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcspaiva87/lcspaiva87/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/lcspaiva87/lcspaiva87/output/snake.svg" alt="Snake animation" />
+</picture>
 <b>My GitHub Stats</b>
 <div align="center">
   <a href="https://github.com/lcspaiva87">
