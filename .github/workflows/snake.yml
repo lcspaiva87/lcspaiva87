@@ -2,7 +2,7 @@ name: Generate profile animations
 
 on:
   schedule:
-    - cron:  '0 0,12 * * *'   # meia-noite e meio-dia
+    - cron: '0 0,12 * * *'  # Meia-noite e meio-dia
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -14,9 +14,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # Precisamos de todo o histórico de commits
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
@@ -27,9 +28,11 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Generate Pac‑Man SVG
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+        run: |
+          git clone https://github.com/abozanona/pacman-contribution-graph.git
+          cd pacman-contribution-graph
+          npm install
+          node index.js --username ${{ github.repository_owner }} --output ../dist/pacman.svg
 
       - name: Deploy to “output” branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
