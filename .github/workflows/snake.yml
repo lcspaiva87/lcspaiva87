@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Precisamos de todo o histórico de commits
+          fetch-depth: 0
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
@@ -28,11 +28,14 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Generate Pac‑Man SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Create dist folder and copy pacman.svg
         run: |
-          git clone https://github.com/abozanona/pacman-contribution-graph.git
-          cd pacman-contribution-graph
-          npm install
-          node index.js --username ${{ github.repository_owner }} --output ../dist/pacman.svg
+          mkdir -p dist
+          cp pacman.svg dist/pacman.svg
 
       - name: Deploy to “output” branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
