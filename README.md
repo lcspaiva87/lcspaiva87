@@ -2,13 +2,14 @@
 
 # 👋 Hey there! I'm Lucas Paiva
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Frontend+Specialist;React+%26+Next.js+Expert;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Frontend+Specialist;React+%26+Next.js+Expert;NestJS+Backend+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/lcspaiva87?style=for-the-badge&color=00D9FF&labelColor=1C1C1C)](https://github.com/lcspaiva87)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C1C)](https://www.linkedin.com/in/lucas-antonio-paiva/)
   [![Profile Views](https://komarev.com/ghpvc/?username=lcspaiva87&style=for-the-badge&color=00D9FF&labelColor=1C1C1C)](https://github.com/lcspaiva87)
 
 </div>
@@ -22,18 +23,20 @@
 ```javascript
 const lucas = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["React", "Next.js", "Node.js"],
+  frameworks: ["React", "Next.js", "Node.js", "NestJS"],
+  styling: ["Material-UI", "Styled-Components", "Tailwind", "Sass"],
   tools: ["Figma", "Adobe XD", "Git", "VS Code"],
-  architecture: ["SPA", "SSR", "JAMstack"],
-  currentFocus: "Building scalable React applications",
-  challenge: "Mastering Next.js 14 and Server Components"
+  architecture: ["SPA", "SSR", "JAMstack", "Microservices"],
+  currentFocus: "Building full-stack applications with React & NestJS",
+  challenge: "Mastering Next.js 14 and NestJS advanced patterns"
 };
 ```
 
-- 🔭 Currently working on **innovative React solutions**
-- 🌱 Learning **Next.js 14** and **Server Components**
-- 💡 Passionate about **clean code** and **user experience**
-- 🎯 Goal: Creating **impactful digital products**
+- 🔭 Currently working on **full-stack applications with React & NestJS**
+- 🌱 Learning **Next.js 14** and **advanced NestJS patterns**
+- 🎨 Expert in **Material-UI** and **Styled-Components** for modern UI development
+- 💡 Passionate about **clean code** and **scalable architectures**
+- 🎯 Goal: Creating **robust backend APIs** and **seamless user experiences**
 
 ---
 
@@ -47,14 +50,17 @@ const lucas = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Styling
+### Styling & UI
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
