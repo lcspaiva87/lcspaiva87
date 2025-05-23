@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      id-token: write  # Adiciona permissão extra caso a action precise
 
     steps:
       - name: Checkout repository
@@ -26,6 +27,8 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Pac‑Man SVG
         uses: abozanona/pacman-contribution-graph@main
@@ -37,3 +40,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
