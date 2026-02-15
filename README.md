@@ -115,13 +115,6 @@ const lucas = {
 
 ---
 
-### Meu Card de Duelista 🃏
-<div align="center">
-  <a href="https://github.com/lcspaiva87/The-Coder-Duelist">
-    <img src="https://raw.githubusercontent.com/lcspaiva87/The-Coder-Duelist/main/yugioh-card.svg" height="400" alt="Carta Yu-Gi-Oh GitHub" />
-  </a>
-</div>
-
 
 
 <div align="center">
